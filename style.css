@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+background-color: rgb(255, 196, 0);
+background-image: url('robux.jpg');
+font-family: 'Oswald', sans-serif
+}
+
+#text{
+
+    text-align: center;
+    font-size: 150px;
+    color:rgb(5, 5, 5);
+}
+#ROBUX{
+    background-color: black;
+}
